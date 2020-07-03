@@ -8,7 +8,6 @@ width:1500px; /* this determines the width of the div itself */
 height:100px; /* this determines the height of the div */
 position: float; /* this sets the div as a floating possision - this is needed so all divs align correctly */
 }
-
 #rotatingbox{
 color: white; /* this sets the text colour in the banner div to white */
 background-color: transparent; /* this sets the background colour to orange  */
@@ -67,7 +66,7 @@ position: absolute; /* this sets the div as a absolute possision - this is neede
     border: solid darkgreen 3px; /* this sets the borders of the div */
     position: absolute; /* this sets the div as a absolute possision - this is needed so all divs align correctly */
     width: 200px; /* this determines the width of the div itself */
-    height: 1110px; /* this determines the height of the div */
+    height: 1090px; /* this determines the height of the div */
     top: 0px; left: 1600; /* this determines how far from the top and left the div is */
     position: float; /* this sets the div as a absolute possision - this is needed so all divs align correctly */
     }
@@ -132,3 +131,4 @@ font-family: Ebrima;
 top: 10;
 	
 }
+
